@@ -25,7 +25,7 @@ This guide documents how Tailwind CSS is integrated into this ASP.NET Core 8 MVC
 
 ## Tailwind Installation
 
-#### You'll need Node.js for this.
+#### You'll need <a href="https://nodejs.org/en"> Node.js</a> for this.
 
 Run this in the terminal:
 
